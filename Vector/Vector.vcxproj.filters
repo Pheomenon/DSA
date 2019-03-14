@@ -23,6 +23,9 @@
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Vector.h">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="Vector.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
